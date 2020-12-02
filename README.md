@@ -1,4 +1,4 @@
-# Restic Backup Docker Container (v0.10.0)
+# Restic Backup Docker Container (v0.11.0)
 
 A docker container to automate [restic backups](https://restic.net/)
 
