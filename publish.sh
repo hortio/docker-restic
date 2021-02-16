@@ -1,7 +1,7 @@
 #!/bin/sh
 
 export RESTIC_MAJOR="0"
-export RESTIC_MINOR="11"
+export RESTIC_MINOR="12"
 export RESTIC_PATCH="0"
 docker build -t hortio/restic:latest \
     -t hortio/restic:"v${RESTIC_MAJOR}.${RESTIC_MINOR}.${RESTIC_PATCH}" \
